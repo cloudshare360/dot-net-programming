@@ -28,7 +28,7 @@ To learn .NET programming effectively, follow this structured roadmap that cover
 - **Resources**:
   - **Books**: *"C# 12.0 in a Nutshell"* by Joseph Albahari.
   - **Courses**: 
-    - [Microsoft Learn: C# Fundamentals](https://learn.microsoft.com/en-us/training/paths/csharp-fundamentals/)
+    - [Microsoft Learn: C# Fundamentals](https://learn.microsoft.com/en-us/training/career-paths/developer)
     - [Pluralsight: C# Path](https://www.pluralsight.com/)
   - **Practice**: Solve problems on [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/) in C#.
 
